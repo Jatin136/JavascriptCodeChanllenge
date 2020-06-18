@@ -1,7 +1,8 @@
 # JavascriptCodeChanllenge
 Javascript challenge with promise, https
 
-`const https = require('https');
+`
+const https = require('https');
 
 // Read Promise chapter from javascript.info to understand the concept of promise
 // uncomment console.log to see the ouput at various steps
@@ -89,4 +90,5 @@ async function getTeams(year, k) {
 }
 
 // first argument is year and second argument is minimum number of matches to be played by team,
-getTeams(2013, 3);`
+getTeams(2013, 3);
+`
